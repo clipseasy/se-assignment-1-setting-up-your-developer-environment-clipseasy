@@ -12,29 +12,33 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
-   Answer -- my computer does not support Windows 11 setup
+   *** Answer -- my computer does not support Windows 11 setup
 
 3. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
-4. Set Up Version Control System:
+   *** Visual Studio Code successfully installed.
+5. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+   *** Github successfully installed and configured.
 
-5. Install Necessary Programming Languages and Runtimes:
+7. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+*** Python programming successfully installed.
 
-6. Install Package Managers:
+9. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
-7. Configure a Database (MySQL):
+10. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+*** MySQL successfully installed though community download.
 
-8. Set Up Development Environments and Virtualization (Optional):
+12. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-9. Explore Extensions and Plugins:
+13. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-10. Document Your Setup:
+14. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
